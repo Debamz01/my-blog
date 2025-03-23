@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My motivation site",
+      "body": "To dare is to lose your footing momentarily, not to dare is to lose oneself",
+      "author": "Robert Greeene",
+      "id": "1"
+    },
+    {
+      "title": "Continued motivation",
+      "body": "Mistakes made through audacity can be corrected with even more audacity",
+      "author": "Robert Greeene",
+      "id": "2"
+    },
+    {
+      "title": "Motivation requiem",
+      "body": "Resist Demoralization always, even when the odds are not in your favor, This is the one time logic is your enemy, and faith is your friend",
+      "author": "IM",
+      "id": "3"
+    },
+    {
+      "title": "Source of truth",
+      "body": "The path to enlightenment is seldom trod upon, because if it were all a matter of following your own bliss, and doing what made you happy, then everyone in the world would be a paragon of wisdom, but it is not that at all. It is a matter of facing the thing you least want to face",
+      "author": "Jordan Peterson",
+      "id": "4"
+    }
+  ]
+}
